@@ -16,7 +16,7 @@
 
   <url type="documentation">https://uuvsimulator.github.io/</url>
 
-  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>ament_cmake</buildtool_depend>
 
   <exec_depend>uuv_assistants</exec_depend>
   <exec_depend>uuv_auv_control_allocator</exec_depend>
